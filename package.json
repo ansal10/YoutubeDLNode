@@ -15,6 +15,9 @@
     "less-middleware": "~2.2.1",
     "morgan": "~1.9.0",
     "sequelize": "^4.38.0",
-    "string-format": "^2.0.0"
+    "sequelize-cli": "^4.0.0",
+    "sqlite3": "^4.0.2",
+    "string-format": "^2.0.0",
+    "underscore": "^1.9.1"
   }
 }
