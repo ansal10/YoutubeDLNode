@@ -1,7 +1,7 @@
 module.exports = {
 	apps: [{
 		name: 'API',
-		script: 'app.js',
+		script: 'bin/www',
 		env: {
 			NODE_ENV: 'development',
 			PORT: 3000
